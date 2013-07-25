@@ -1,0 +1,10 @@
+[user]
+	name = Johnny Gannon
+	email = jgannonjr@gmail.com
+[github]
+	user = jgannonjr
+	token = <REDACTED>
+[alias]
+  s = status --short
+[core]
+	editor = /usr/bin/vim
